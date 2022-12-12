@@ -8,7 +8,7 @@
     "body": "^5.1.0",
     "body-parser": "^1.19.0",
     "err": "^2.1.11",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gh-pages": "^2.2.0",
     "nodemon": "^2.0.3",
     "parser": "^0.1.4",
