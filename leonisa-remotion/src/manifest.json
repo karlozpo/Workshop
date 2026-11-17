@@ -1,0 +1,185 @@
+{
+  "video": {
+    "width": 1080,
+    "height": 1664
+  },
+  "layers": {
+    "plate": {
+      "src": "layers/plate.jpg",
+      "left": 0,
+      "top": 0,
+      "width": 1080.0,
+      "height": 1664.0
+    },
+    "logo-0": {
+      "src": "layers/logo-0.png",
+      "left": 63.0,
+      "top": 60.0,
+      "width": 103.0,
+      "height": 148.5
+    },
+    "logo-1": {
+      "src": "layers/logo-1.png",
+      "left": 191.0,
+      "top": 60.0,
+      "width": 116.0,
+      "height": 148.5
+    },
+    "logo-2": {
+      "src": "layers/logo-2.png",
+      "left": 327.5,
+      "top": 56.5,
+      "width": 147.5,
+      "height": 155.5
+    },
+    "logo-3": {
+      "src": "layers/logo-3.png",
+      "left": 503.0,
+      "top": 59.0,
+      "width": 128.0,
+      "height": 150.5
+    },
+    "logo-4": {
+      "src": "layers/logo-4.png",
+      "left": 669.5,
+      "top": 60.0,
+      "width": 40.5,
+      "height": 148.5
+    },
+    "logo-5": {
+      "src": "layers/logo-5.png",
+      "left": 732.0,
+      "top": 56.5,
+      "width": 127.5,
+      "height": 155.5
+    },
+    "logo-6": {
+      "src": "layers/logo-6.png",
+      "left": 869.0,
+      "top": 60.0,
+      "width": 150.5,
+      "height": 149.5
+    },
+    "campana": {
+      "src": "layers/campana.png",
+      "left": 60.0,
+      "top": 233.5,
+      "width": 223.5,
+      "height": 29.0
+    },
+    "hecho": {
+      "src": "layers/hecho.png",
+      "left": 734.0,
+      "top": 234.0,
+      "width": 222.0,
+      "height": 24.5
+    },
+    "flag": {
+      "src": "layers/flag.png",
+      "left": 965.0,
+      "top": 227.0,
+      "width": 55.5,
+      "height": 37.5
+    },
+    "quien-1": {
+      "src": "layers/quien-1.png",
+      "left": 61.5,
+      "top": 489.0,
+      "width": 283.0,
+      "height": 60.0
+    },
+    "quien-2": {
+      "src": "layers/quien-2.png",
+      "left": 61.0,
+      "top": 555.5,
+      "width": 379.0,
+      "height": 45.0
+    },
+    "modelo-1": {
+      "src": "layers/modelo-1.png",
+      "left": 845.0,
+      "top": 894.0,
+      "width": 174.0,
+      "height": 36.0
+    },
+    "modelo-2": {
+      "src": "layers/modelo-2.png",
+      "left": 753.0,
+      "top": 932.5,
+      "width": 267.0,
+      "height": 36.0
+    },
+    "modelo-3": {
+      "src": "layers/modelo-3.png",
+      "left": 715.5,
+      "top": 971.5,
+      "width": 303.5,
+      "height": 36.0
+    },
+    "modelo-4": {
+      "src": "layers/modelo-4.png",
+      "left": 711.0,
+      "top": 1010.5,
+      "width": 307.5,
+      "height": 36.0
+    },
+    "comunidad-1": {
+      "src": "layers/comunidad-1.png",
+      "left": 756.5,
+      "top": 1061.5,
+      "width": 262.0,
+      "height": 29.0
+    },
+    "comunidad-2": {
+      "src": "layers/comunidad-2.png",
+      "left": 709.0,
+      "top": 1095.0,
+      "width": 310.0,
+      "height": 35.0
+    },
+    "comunidad-3": {
+      "src": "layers/comunidad-3.png",
+      "left": 764.5,
+      "top": 1128.0,
+      "width": 254.5,
+      "height": 35.0
+    },
+    "conoce-1": {
+      "src": "layers/conoce-1.png",
+      "left": 57.0,
+      "top": 1376.0,
+      "width": 229.5,
+      "height": 46.0
+    },
+    "conoce-2": {
+      "src": "layers/conoce-2.png",
+      "left": 56.0,
+      "top": 1433.5,
+      "width": 419.0,
+      "height": 46.0
+    },
+    "guia-1": {
+      "src": "layers/guia-1.png",
+      "left": 63.0,
+      "top": 1498.0,
+      "width": 433.5,
+      "height": 35.5
+    },
+    "guia-2": {
+      "src": "layers/guia-2.png",
+      "left": 61.5,
+      "top": 1531.5,
+      "width": 427.0,
+      "height": 35.0
+    }
+  },
+  "logo": [
+    "logo-0",
+    "logo-1",
+    "logo-2",
+    "logo-3",
+    "logo-4",
+    "logo-5",
+    "logo-6"
+  ]
+}

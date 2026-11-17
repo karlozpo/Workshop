@@ -1,0 +1,21 @@
+{
+  "name": "leonisa-campana-17-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Animación en loop (15 s) de la portada Leonisa Campaña 17 I 2026",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render LeonisaCover out/leonisa-campana-17.mp4",
+    "layers": "python3 scripts/extract_layers.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.544",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.544"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}
